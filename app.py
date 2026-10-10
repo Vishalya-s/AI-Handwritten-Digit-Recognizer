@@ -26,7 +26,7 @@ st.markdown(
 # Load CNN model
 @st.cache_resource
 def load_model():
-    return tf.keras.models.load_model("cnn_digit_recognizer.keras")
+    return tf.keras.models.load_model("digit_recognizer.keras")
 
 model = load_model()
 
