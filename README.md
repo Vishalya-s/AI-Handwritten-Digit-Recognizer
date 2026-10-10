@@ -105,6 +105,11 @@ Through this project, I learned:
 • Streamlit application development
 • Deploying a machine learning model into an interactive application
 
+📸 Project Screenshots
+
+1. Application Interface
+2. Digit Prediction Result
+
 👩‍💻 Author
 
 Vishalya S
